@@ -1,1 +1,2 @@
-This is a local change.1
+This is a local change.
+TortoiseGitから修正してみる
