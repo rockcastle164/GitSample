@@ -1,0 +1,7 @@
+# Delphi 5/6 用の無視設定
+*.~*
+*.dcu
+*.ddp
+*.dsk
+*.dof
+*.bak
